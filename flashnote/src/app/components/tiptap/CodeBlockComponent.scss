@@ -1,0 +1,16 @@
+.tiptap {
+  .code-block {
+    position: relative;
+    background-color: #1e1e1e;
+
+    select {
+      position: absolute;
+      background-color: #1e1e1e;
+      color: white;
+      border: 1px solid #444;
+      background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="Black" d="M7 10l5 5 5-5z"/></svg>');
+      right: 0.5rem;
+      top: 0.5rem;
+    }
+  }
+}
